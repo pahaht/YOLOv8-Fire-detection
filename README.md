@@ -6,7 +6,7 @@ This repository contains code and resources for detecting fires using the YOLOv8
 The model is trained on annotated fire images and can accurately detect fires in real-time video streams or images.
 
 
-![alt text]( https://github.com/pahaht/YOLOv8-Fire-detection/blob/main/Images/fire-detection.JPG)  
+![alt text]( https://github.com/pahaht/YOLOv8-Fire-detection/blob/main/images/fire-detection.JPG)  
  
 
 
@@ -23,4 +23,4 @@ documentation that will be beneficial to you: https://docs.ultralytics.com/
 
 ### *Dataset*
 In this project, I used the Roboflow dataset https://universe.roboflow.com/harami-olzhi/fire-cp1uk
-![image](https://github.com/pahaht/YOLOv8-Fire-detection/assets/116424869/bd53504a-dd5c-4567-9389-c45de11e83c0)
+
