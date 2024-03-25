@@ -1,20 +1,17 @@
 # YOLOv8-Fire-detection
-# YOLOv8-Fire-detection
 
 ### *Overview*
 This repository contains code and resources for detecting fires using the YOLOv8 object detection model. 
 The model is trained on annotated fire images and can accurately detect fires in real-time video streams or images.
 
 
-![alt text]( https://github.com/pahaht/YOLOv8-Fire-detection/blob/main/images/fire-detecting.JPG)  
+![alt text]( https://github.com/pahaht/YOLOv8-Fire-detection/blob/main/images/fire.JPG)  
  
 
 
  ## Features 
 - Fire detection using YOLOv8
 - Real-time detection in video streams or images
-
-
 
 
 ### *Installation*
